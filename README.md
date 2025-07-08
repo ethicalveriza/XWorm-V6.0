@@ -2,6 +2,7 @@ ZIP Password: codextools
 
 
 Whats New On XWorm V6.0? :
+
 🔐 1. Password‑Recovery Logger in All Browsers
 
 Built-in credential‑logging across major browsers — now more seamless and integrated than before
